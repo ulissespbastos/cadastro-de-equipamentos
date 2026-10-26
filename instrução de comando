@@ -1,0 +1,84 @@
+Cadastro de Equipamentos em C
+Descrição
+
+Programa desenvolvido em linguagem C para cadastrar equipamentos, salvar os dados em um arquivo de texto e consultar os registros cadastrados.
+
+Funcionalidades
+Solicitar o código, o nome e o tipo do equipamento.
+Salvar os dados no arquivo equipamentos.txt.
+Acrescentar novos registros sem apagar os anteriores.
+Ler e exibir os equipamentos cadastrados.
+Arquivos do projeto
+cadastro.c: código-fonte do programa.
+equipamentos.txt: exemplo de registros cadastrados.
+README.md: instruções do projeto.
+Como compilar
+
+É necessário ter um compilador C, como o GCC, instalado.
+
+No terminal, entre na pasta do projeto e execute:
+
+bash
+gcc cadastro.c -o cadastro
+
+Como executar
+
+No Linux:
+
+bash
+./cadastro
+
+
+No Windows, usando GCC:
+
+bash
+cadastro.exe
+
+
+Siga as instruções exibidas no terminal para cadastrar e consultar os equipamentos.
+
+Observação
+
+O arquivo equipamentos.txt deve estar na pasta de execução do programa. O programa utiliza o modo a para acrescentar registros e o modo r para ler os registros existentes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
