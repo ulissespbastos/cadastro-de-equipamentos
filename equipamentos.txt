@@ -1,0 +1,48 @@
+
+Codigo: 101
+Nome: Notebook
+Tipo: Informatica
+--------------------------
+Codigo: 102
+Nome: Impressora
+Tipo: Periferico
+--------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
